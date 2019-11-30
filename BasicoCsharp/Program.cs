@@ -42,5 +42,17 @@ namespace BasicoCsharp
             bool[] celdasMarcadas = new bool[16];
             
         }
+
+        double resultado;
+        void LimpiarPantalla()
+        {
+            resultado=0;
+        }
+
+        double Multiplicar(int x,int y)
+        {
+            resultado = x * y;
+            return resultado;
+        }
     }
 }
