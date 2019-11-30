@@ -44,12 +44,12 @@ namespace BasicoCsharp
         }
 
         double resultado;
-        void LimpiarPantalla()
+        void LimpiarPantalla()//funcion
         {
             resultado=0;
         }
 
-        double Multiplicar(int x,int y)
+        double Multiplicar(int x,int y)//metodo
         {
             resultado = x * y;
             return resultado;
