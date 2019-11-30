@@ -30,6 +30,17 @@ namespace BasicoCsharp
             primerNumero++;
             primerNumero--;
             Console.WriteLine("Aqui puede ir cualquiera de los de arriba:" + primerNumero);
+            bool compY = true && true;
+            var compO = true || false;
+            bool compaEquals = compY == compO;
+            bool valorNegado = !compaEquals;
+            String[] nombres = new string[10];
+            nombres[4] = "Jeremy";
+            String[] diasDeLaSemana = { "Lunes", "Martes", "Miercoles", "Jueves", "Viernes", "Sabado", "Domingo" };
+            Console.WriteLine("La semana tiene {0} dias", diasDeLaSemana.Length);
+            int[] numerosPrimos = { 1, 2, 3, 5, 7, 11 };
+            bool[] celdasMarcadas = new bool[16];
+            
         }
     }
 }
