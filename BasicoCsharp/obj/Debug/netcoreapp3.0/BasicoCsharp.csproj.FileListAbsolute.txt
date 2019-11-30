@@ -1,0 +1,11 @@
+C:\Users\116170584\Documents\GitHub\BasicoCsharp\BasicoCsharp\basicoCsharp\BasicoCsharp\bin\Debug\netcoreapp3.0\BasicoCsharp.exe
+C:\Users\116170584\Documents\GitHub\BasicoCsharp\BasicoCsharp\basicoCsharp\BasicoCsharp\bin\Debug\netcoreapp3.0\BasicoCsharp.deps.json
+C:\Users\116170584\Documents\GitHub\BasicoCsharp\BasicoCsharp\basicoCsharp\BasicoCsharp\bin\Debug\netcoreapp3.0\BasicoCsharp.runtimeconfig.json
+C:\Users\116170584\Documents\GitHub\BasicoCsharp\BasicoCsharp\basicoCsharp\BasicoCsharp\bin\Debug\netcoreapp3.0\BasicoCsharp.runtimeconfig.dev.json
+C:\Users\116170584\Documents\GitHub\BasicoCsharp\BasicoCsharp\basicoCsharp\BasicoCsharp\bin\Debug\netcoreapp3.0\BasicoCsharp.dll
+C:\Users\116170584\Documents\GitHub\BasicoCsharp\BasicoCsharp\basicoCsharp\BasicoCsharp\bin\Debug\netcoreapp3.0\BasicoCsharp.pdb
+C:\Users\116170584\Documents\GitHub\BasicoCsharp\BasicoCsharp\basicoCsharp\BasicoCsharp\obj\Debug\netcoreapp3.0\BasicoCsharp.csprojAssemblyReference.cache
+C:\Users\116170584\Documents\GitHub\BasicoCsharp\BasicoCsharp\basicoCsharp\BasicoCsharp\obj\Debug\netcoreapp3.0\BasicoCsharp.AssemblyInfoInputs.cache
+C:\Users\116170584\Documents\GitHub\BasicoCsharp\BasicoCsharp\basicoCsharp\BasicoCsharp\obj\Debug\netcoreapp3.0\BasicoCsharp.AssemblyInfo.cs
+C:\Users\116170584\Documents\GitHub\BasicoCsharp\BasicoCsharp\basicoCsharp\BasicoCsharp\obj\Debug\netcoreapp3.0\BasicoCsharp.dll
+C:\Users\116170584\Documents\GitHub\BasicoCsharp\BasicoCsharp\basicoCsharp\BasicoCsharp\obj\Debug\netcoreapp3.0\BasicoCsharp.pdb
